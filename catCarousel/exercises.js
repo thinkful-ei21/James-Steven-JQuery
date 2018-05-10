@@ -8,5 +8,3 @@ $('.thumbnails').on('click', 'a', function(event) {
     $('.hero img').attr('alt', $(image).attr('alt'));
   }
 });
-
-
